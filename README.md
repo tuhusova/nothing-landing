@@ -1,4 +1,4 @@
---Nothing Landing--
+-- Nothing Landing
 A modern tech store landing page for showcasing and selling devices — including smartphones, earbuds, and other electronics. Built with a focus on responsive design, performance, and clean UI.
 
     - [DEMO LINK](https://tuhusova.github.io/nothing-landing/)
@@ -17,10 +17,10 @@ cd project-name
 
 Install dependencies:
 npm install
-# or
+or
 yarn install
 
 Run the project locally:
 npm start
-# or
+or
 yarn start
