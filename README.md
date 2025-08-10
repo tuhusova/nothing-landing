@@ -18,17 +18,17 @@ Crafted to connect people with the devices they love.
   - Parsel
 
 ## How to set up the project locally:
-Clone the repository:
+  - Clone the repository:
 **git clone**
 
-**cd project-name**
+  - **cd project-name**
 
-Install dependencies:
+  - Install dependencies:
 **npm install**
 or
 **yarn install**
 
-Run the project locally:
+  - Run the project locally:
 **npm start**
 or
 **yarn start**
