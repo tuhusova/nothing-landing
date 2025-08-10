@@ -1,26 +1,32 @@
--- Nothing Landing
-A modern tech store landing page for showcasing and selling devices — including smartphones, earbuds, and other electronics. Built with a focus on responsive design, performance, and clean UI.
+# Nothing Landing
+A modern tech store landing page showcasing smartphones, earbuds, and electronics.
+Built with a focus on clean design, responsive layout, and smooth performance.
 
-    - [DEMO LINK](https://tuhusova.github.io/nothing-landing/)
-    - Figma Link (https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6802-139&t=6QrdgnCHVHwFchwW-1)
+We believe technology should be simple, elegant, and accessible —
+no jargon, no fuss, just great products you can trust.
 
-    Technologies Used:
-    - HTML5
-    - SCSS
-    - JavaScript(ES6)
-    - Parsel
+Crafted to connect people with the devices they love.
 
--- How to set up the project locally:
+  [DEMO LINK](https://tuhusova.github.io/nothing-landing/)
+  [FIGMA LINK](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6802-139&t=6QrdgnCHVHwFchwW-1)
+
+## Technologies Used:
+  - HTML5
+  - SCSS
+  - JavaScript(ES6)
+  - Parsel
+
+## How to set up the project locally:
 Clone the repository:
-git clone https://github.com/your-username/project-name.git
+**git clone** https://github.com/your-username/project-name.git
 cd project-name
 
 Install dependencies:
-npm install
+**npm install**
 or
-yarn install
+**yarn install**
 
 Run the project locally:
-npm start
+**npm start**
 or
-yarn start
+**yarn start**
