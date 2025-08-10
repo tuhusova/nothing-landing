@@ -21,7 +21,7 @@ Crafted to connect people with the devices they love.
 Clone the repository:
 **git clone https://github.com/your-username/project-name.git**
 
-cd project-name
+**cd project-name**
 
 Install dependencies:
 **npm install**
