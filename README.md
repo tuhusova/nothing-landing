@@ -8,6 +8,7 @@ no jargon, no fuss, just great products you can trust.
 Crafted to connect people with the devices they love.
 
   [DEMO LINK](https://tuhusova.github.io/nothing-landing/)
+  
   [FIGMA LINK](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6802-139&t=6QrdgnCHVHwFchwW-1)
 
 ## Technologies Used:
