@@ -19,16 +19,16 @@ Crafted to connect people with the devices they love.
 
 ## How to set up the project locally:
 Clone the repository:
-**git clone https://github.com/your-username/project-name.git**
+**git clone**
 
 **cd project-name**
 
 Install dependencies:
 **npm install**
-or
+# or
 **yarn install**
 
 Run the project locally:
 **npm start**
-or
+# or
 **yarn start**
