@@ -15,7 +15,6 @@ Crafted to connect people with the devices they love.
   - HTML5
   - SCSS
   - JavaScript(ES6)
-  - Parsel
 
 ## How to set up the project locally:
   - Clone the repository:
